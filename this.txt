@@ -1,0 +1,2 @@
+this is content inside this.txt file
+the whole content is moved to this_copy.txt file
